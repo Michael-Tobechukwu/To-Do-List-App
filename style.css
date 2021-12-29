@@ -1,0 +1,48 @@
+body {
+  width: 50%;
+  margin: 20px 500px;
+}
+h1 {
+  margin: 40px 70px 0;
+}
+.container {
+  width: 500px;
+}
+#inputField {
+  width: 300px;
+  height: 46px;
+  border: 1px solid black;
+  border-radius: 1%;
+  font-size: 20px;
+  vertical-align: middle;
+}
+footer {
+  margin: 150px 0;
+}
+#addButton {
+  height: 46px;
+  width: 50px;
+  border: 0px solid black;
+  border-radius: 1rem;
+  vertical-align: middle;
+  font-size: 40px;
+  font-weight: bold;
+  cursor: pointer;
+  background-color: aqua;
+}
+.todoItems {
+  margin-top: 40px;
+  height: 400px;
+  float: left;
+  color: green;
+}
+.itemsDone {
+  margin-top: 40px;
+  height: 200px;
+  float: right;
+}
+.paragraph-styling {
+  margin: 0;
+  cursor: pointer;
+  font-size: 20px;
+}
